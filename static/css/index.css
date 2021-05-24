@@ -1,0 +1,20 @@
+body {
+  background-color: #91ced4;
+}
+body * {
+  box-sizing: border-box;
+}
+
+.content {
+  height: 200px;
+  position: relative;
+}
+
+.form {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
