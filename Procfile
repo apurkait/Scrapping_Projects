@@ -1,1 +1,1 @@
-web: gunicorn wsgi:FirstWebScrapper
+web: gunicorn wsgi:app
