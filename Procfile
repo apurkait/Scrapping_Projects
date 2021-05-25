@@ -1,1 +1,1 @@
-web: gunicorn wsgi:final
+web: gunicorn FlaskApp:final

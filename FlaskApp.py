@@ -85,5 +85,5 @@ def scrapper():
         return 'Aw Snap! Error Encountered'
 
 
-'''if __name__ == '__main__':
-    final.run()'''
+if __name__ == '__main__':
+    final.run()
